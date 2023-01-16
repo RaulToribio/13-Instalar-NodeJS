@@ -151,10 +151,6 @@ NodeRed notificará que nodos han sido agregados.
 
 NodeRed está listo para ser utilizado.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/13-Instalar-NodeJS/main/Im%C3%A1genes/Instalar%20NodeJS%20(28).png](https://raw.githubusercontent.com/RaulToribio/13-Instalar-NodeJS/main/Im%C3%A1genes/Instalar%20NodeJS%20(28).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
