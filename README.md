@@ -1,5 +1,3 @@
-# 13-Instalar-NodeJS
-
 # Introducción
 
 Node.js es un entorno de ejecución de JavaScript para servidores. Permite a los desarrolladores escribir código JavaScript en el lado del servidor para crear aplicaciones web y servicios. Utiliza el motor JavaScript V8 de Google para ejecutar el código, y proporciona una serie de módulos de Node.JS que facilitan el desarrollo de aplicaciones web escalables y de alto rendimiento.
